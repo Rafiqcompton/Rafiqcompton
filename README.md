@@ -1,12 +1,5 @@
 ### Hi there 👋
-
-
-<div id="header" align="center">
-  img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100"/>
-  
-  </div>
-
-
+![image](https://user-images.githubusercontent.com/124554329/219687042-6bacdc0d-d991-4e5c-adc0-73fbd5e1fb32.png)
 
 
 
