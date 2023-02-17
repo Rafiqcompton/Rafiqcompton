@@ -1,13 +1,24 @@
 ### Hi there 👋
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/124554329/219687042-6bacdc0d-d991-4e5c-adc0-73fbd5e1fb32.png)
 
 
 
 
 
+
+
+
+
+
+
+
+
 :hammer_and_wrench: Languages and Tools :
-
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -40,6 +51,14 @@
 
 
 
+
+
+
+
+
+
+
+### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafiqcompton&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
